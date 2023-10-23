@@ -4,7 +4,7 @@ import axios from 'axios';
 
 const API_KEY = import.meta.env.VITE_API_KEY_LOCATION;
 
-// console.log('key',API_KEY);
+console.log('key',API_KEY);
 class App extends React.Component {
 
 constructor(props){
